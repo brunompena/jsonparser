@@ -50,7 +50,7 @@ Given the following JSON object:
         "b": [
             "abc",
             "def",
-			{
+            {
                 "a": 4,
                 "b": 5
             }
